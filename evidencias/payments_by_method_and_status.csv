@@ -1,0 +1,17 @@
+payment_method,order_status,total_amount
+bank_transfer,completed,243.00
+bank_transfer,placed,86.00
+bank_transfer,return_pending,15.00
+bank_transfer,returned,3.00
+bank_transfer,shipped,64.00
+coupon,completed,127.00
+coupon,placed,56.00
+coupon,shipped,2.00
+credit_card,completed,627.00
+credit_card,placed,69.00
+credit_card,returned,46.00
+credit_card,shipped,129.00
+gift_card,completed,106.00
+gift_card,placed,73.00
+gift_card,return_pending,23.00
+gift_card,shipped,3.00

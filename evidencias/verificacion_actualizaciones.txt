@@ -1,0 +1,4 @@
+OK: varios pagos por pedido, metodos separados y conversion a AUD.
+OK: el importe cambia de grupo y desaparecen los grupos vacios.
+OK: un pago nuevo aumenta el total en 12.50 AUD.
+OK: repetir la ejecucion no duplica los importes.
